@@ -1,6 +1,6 @@
 # 🧑‍💻 Martim Neves
 
-Hi! 👋 My name is Martim Neves, a Junior Frontend Developer passionate about technology and aviation. 
+Hi! 👋 My name is Martim Neves, a Front-end Developer passionate about technology and aviation. 
 I enjoy building intuitive and efficient web applications.
 
 #
