@@ -17,11 +17,16 @@ Naturally curious and always eager to learn, dedicated to writing clean code and
 
 ### 🪛 Frameworks
 <img align="left" alt="Angular" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="React" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-origina.svg" />
 <img align="left" alt="NestJS" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+<img align="left" alt="RxJS" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" />
+<img align="left" alt="PrimeNG" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/primeng/primeng-original.svg" />
 <br />
 
-<!-- 
-### 🧰 | Tools
+#
+
+### 🧰 Tools
 <img align="left" alt="GitHub" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
--->
+<img align="left" alt="Figma" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://vitest.dev/logo.svg" />
+<img align="left" alt="Hoppscotch" width="30px" style="padding-right:10px;" src="https://hoppscotch.io/icon.png" />
+<br />
