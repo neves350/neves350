@@ -18,5 +18,7 @@ Naturally curious and always eager to learn, dedicated to writing clean code and
 <img align="left" alt="NestJS" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
 <br />
 
+<!-- 
 ### 🧰 | Tools
 <img align="left" alt="GitHub" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+-->
