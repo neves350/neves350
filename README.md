@@ -1,6 +1,6 @@
 # 🧑‍💻 Martim Neves
 
-Hi! 👋 My name is Martim Neves, a Frontend Developer with hands-on internship experience building a production web app for 100+ users using Angular and Ionic. 
+Hi! 👋 My name is Martim Neves, a Fullstack Developer with hands-on internship experience building a production web app for 100+ users using Angular and Ionic. 
 Developed a fullstack finance application with NestJS and Angular, tested with Vitest. 
 Naturally curious and always eager to learn, dedicated to writing clean code and continuously improving.
 
